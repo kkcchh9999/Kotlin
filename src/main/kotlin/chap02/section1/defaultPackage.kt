@@ -3,7 +3,7 @@ package chap02.section1
 import java.lang.Math.PI
 import java.lang.Math.abs
 
-import com.example.edu.Person as User   //사용자 패키지 import
+import chap01.edu.Person as User   //사용자 패키지 import
                                         //패키지에 만일 같은 이름의 클래스가 있을 경우에는
                                         //as '별명' 을 사용하여 사용
 
